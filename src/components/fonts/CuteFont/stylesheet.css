@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Cute Font';
+    src: url('CuteFont-Regular.eot');
+    src: url('CuteFont-Regular.eot?#iefix') format('embedded-opentype'),
+        url('CuteFont-Regular.woff2') format('woff2'),
+        url('CuteFont-Regular.woff') format('woff'),
+        url('CuteFont-Regular.ttf') format('truetype'),
+        url('CuteFont-Regular.svg#CuteFont-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

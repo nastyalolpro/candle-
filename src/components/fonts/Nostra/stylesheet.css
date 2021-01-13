@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Nostra v1.0 Sett Trial';
+    src: url('Nostrav10-SettTrial.eot');
+    src: url('Nostrav10-SettTrial.eot?#iefix') format('embedded-opentype'),
+        url('Nostrav10-SettTrial.woff2') format('woff2'),
+        url('Nostrav10-SettTrial.woff') format('woff'),
+        url('Nostrav10-SettTrial.ttf') format('truetype'),
+        url('Nostrav10-SettTrial.svg#Nostrav1.0-SettTrial') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
