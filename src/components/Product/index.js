@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'gatsby-image'
 import Client from 'shopify-buy'
-import video from '../../images/video0001--0250_1.gif'
+import video from '../../images/video0001-0250.gif'
 import './index.css'
 
 
