@@ -1,6 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: "new",
+    author: "nastylolpro",
+    siteUrl: "https://trump-candle.myshopify.com/admin"
   },
   plugins: [
     "gatsby-plugin-netlify-cms",
